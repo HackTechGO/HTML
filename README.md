@@ -1,4 +1,4 @@
-The file includes the following tags:
+The TEXT file includes the following tags:
 - abbrevations
 - address
 - bold
@@ -17,3 +17,10 @@ The file includes the following tags:
 - strong
 - superscript and subscript
 - white space
+
+
+The LISTS file includes the following tags:
+- unordered lists
+- ordered lists
+- definition lists
+- nested lists
