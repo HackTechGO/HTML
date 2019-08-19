@@ -1,4 +1,4 @@
-Follow chapters
+Follow chapters for a full html course. Just go through <i>short-crash-course</i> for a quick session in html
 
 # Useful resources:
 <ul>
